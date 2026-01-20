@@ -3,6 +3,9 @@
 A simple and responsive **student profile card UI** built using **HTML and CSS**.  
 This project showcases clean layout design, card components, and basic UI styling.
 
+## 🌐 Live Demo
+👉 https://veronicah-155.github.io/profile-card-ui/
+
 ## 🚀 Features
 - Profile card layout
 - Student information section
